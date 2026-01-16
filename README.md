@@ -1,6 +1,6 @@
 # cx
 
-**cx** is a small collection of explicit, dependency free **data structures fo C**.
+**cx** is a small collection of explicit, dependency free **data structures for C**.
 
 The goal of this project is to provide **simple, well-defined stb-style single
 header file libraries**.
