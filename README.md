@@ -7,6 +7,7 @@ header file libraries**.
 
 > [!WARNING]
 > This is a learning and educational project, but the APIs are designed to be
-> **real world usable**. Saying that, this is probably something not to be used
+> **real world usable**.
+> Saying that, this is probably something not to be used
 > in any production application.
 
